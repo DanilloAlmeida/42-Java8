@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.function.Consumer;
 
-public class OrdenaStrings {
+public class OrdenaStrings3Lambda {
 
 	public static void main(String[] args) {
 		List<String> palavras = new ArrayList<String>();
